@@ -24,7 +24,7 @@ const education = [
     degree: "Bachelor of Engineering in Computer Science",
     period: "Sep 2020 - May 2024",
     location: "Gujarat, India",
-    gpa: "GPA: 3.54/4.0",
+    gpa: "GPA: 3.54/4.0 ",
   },
 ]
 
